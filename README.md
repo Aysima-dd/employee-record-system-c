@@ -18,9 +18,9 @@ This program allows users to store and display basic employee information:
 ## How to Use
 When the program starts, the user can choose one of three options:
 
-1- Add employee information
-2- Display employee records
-3- Exit
+1. Add employee information
+2. Display employee records
+3. Exit
 
 ## Purpose
 The purpose of this project is to practice using struct, arrays, functions, and basic control structures in the C programming language.
